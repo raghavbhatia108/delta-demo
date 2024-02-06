@@ -1,2 +1,2 @@
 # delta-demo
-made for only github demo
+made for only github demo...
